@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/contactcontroller.ts","./src/controllers/identifycontroller.ts","./src/prisma/client.ts","./src/routes/contact.ts","./src/routes/identify.ts","./src/services/identifyservice.ts"],"version":"5.9.2"}
